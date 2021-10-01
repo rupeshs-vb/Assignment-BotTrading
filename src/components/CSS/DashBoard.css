@@ -1,0 +1,56 @@
+.main_dashboard {
+  border: 1px solid;
+  background-color: rgb(235, 235, 235);
+}
+.para1 {
+  text-align: center;
+  font-weight: 700;
+  color: rgb(3, 3, 77);
+}
+.Bot_name {
+  padding: 0.1rem 1rem;
+  color: rgb(3, 3, 77);
+  background-color: rgb(107, 190, 163);
+}
+.index_value {
+  padding-left: 2rem;
+  line-height: 0.5;
+  color: green;
+}
+.Cagr_div {
+  padding-left: 2rem;
+  line-height: 0.5;
+  color: green;
+}
+.Buttons {
+  display: flex;
+  background-color: rgb(107, 190, 163);
+}
+.Buttons .Links {
+  text-decoration: none;
+  margin: 0.1rem 1rem;
+  padding: 0.2rem 0.2rem;
+  border: 1px solid;
+  background-color: white;
+  color: rgb(3, 3, 77);
+}
+.Buttons button {
+  margin: 0.1rem 1rem;
+  padding: 0 1.5rem;
+  background-color: white;
+  border: 1px solid;
+  cursor: pointer;
+  color: rgb(3, 3, 77);
+}
+.index_and_cagr {
+  display: flex;
+}
+.index_and_cagr p {
+  color: rgb(18, 139, 129);
+}
+.Buttons button:hover {
+  color: rgb(79, 219, 79);
+}
+.Buttons .Links:hover {
+  color: rgb(79, 219, 79);
+}

@@ -1,0 +1,34 @@
+.main_div {
+  width: 100%;
+  display: flex;
+  background-color: rgb(3, 3, 77);
+  align-items: center;
+  font-size: large;
+  font-weight: 500;
+}
+.Link {
+  text-decoration: none;
+  color: white;
+  margin: 0 0.5rem;
+}
+.Carts_div {
+  color: white;
+  margin-top: 0;
+  cursor: pointer;
+  margin: 0 0.5rem;
+}
+.deletevalue {
+  color: red;
+  margin-top: 0;
+  cursor: pointer;
+  margin: 0 0.5rem;
+}
+.Link:hover {
+  color: rgb(219, 201, 177);
+}
+.Carts_div:hover {
+  color: rgb(219, 201, 177);
+}
+.deletevalue:hover {
+  color: rgb(204, 84, 84);
+}

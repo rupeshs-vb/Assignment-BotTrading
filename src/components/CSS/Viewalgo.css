@@ -1,0 +1,46 @@
+.bot {
+  background-color: rgb(107, 190, 163);
+  padding: 0.1rem 1rem;
+  color: rgb(3, 3, 77);
+  text-decoration: underline;
+}
+.index_cagr {
+  display: flex;
+  background-color: rgb(235, 235, 235);
+}
+.index {
+  padding-left: 2rem;
+  line-height: 0.5;
+  color: green;
+}
+.Cagr {
+  padding-left: 2rem;
+  line-height: 0.5;
+  color: green;
+}
+.description_div {
+  padding: 0.1rem 1rem;
+
+  background-color: rgb(235, 235, 235);
+}
+.description_div p {
+  color: green;
+  font-weight: 600;
+}
+.description_div h4 {
+  color: rgb(3, 3, 77);
+  text-decoration: underline;
+}
+.buy_button {
+  background-color: rgb(107, 190, 163);
+  padding: 0.2rem 2rem;
+}
+.buy_button button {
+  padding: 0.3rem 1.5rem;
+  background-color: white;
+  border: 1px solid;
+  color: rgb(3, 3, 77);
+}
+.buy_button button:hover {
+  color: rgb(79, 219, 79);
+}
